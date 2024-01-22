@@ -1,1 +1,1 @@
-Hi this is updated c txt file
+hello C.text file
